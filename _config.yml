@@ -12,8 +12,8 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Pratesh Kumar Reddy # add your name
 author-img: 10672613.jpeg # add your photo
 about-author: Living at the edge.. # add description
-social-twitter: prateshR # add your Twitter handle
-social-facebook: rpratesh # add your Facebook handle
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
 social-github: rpratesh # add your Github handle
 social-linkedin: rpratesh # add your Linkedin handle
 social-email: # add your Email address

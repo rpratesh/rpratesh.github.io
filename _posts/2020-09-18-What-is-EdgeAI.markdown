@@ -3,7 +3,7 @@ layout: post
 title: What is Edge AI
 date: 2020-09-19 13:32:20 +0300
 description: Introduces the reader to the field of Embedded AI (also called Edge AI)
-img: assets/img/pexels-photomix-company-96612%20(1).jpg # Add image post (optional)
+img: pexels-photomix-company-96612%20(1).jpg # Add image post (optional)
 fig-caption: You're being watched # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
